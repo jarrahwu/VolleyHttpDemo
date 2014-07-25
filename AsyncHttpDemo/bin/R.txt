@@ -1,0 +1,26 @@
+int attr bottomLeftRadius 0x7f010003
+int attr bottomRightRadius 0x7f010004
+int attr radius 0x7f010000
+int attr topLeftRadius 0x7f010001
+int attr topRightRadius 0x7f010002
+int dimen activity_horizontal_margin 0x7f060000
+int dimen activity_vertical_margin 0x7f060001
+int drawable ic_launcher 0x7f020000
+int drawable icon_yw 0x7f020001
+int id action_settings 0x7f080002
+int id asyncHttp 0x7f080000
+int id volleyHttp 0x7f080001
+int layout activity_main 0x7f030000
+int menu main 0x7f070000
+int string action_settings 0x7f040001
+int string app_name 0x7f040000
+int string hello_world 0x7f040002
+int style AppBaseTheme 0x7f050000
+int style AppTheme 0x7f050001
+int[] styleable ConnerImage { 0x7f010000 }
+int styleable ConnerImage_radius 0
+int[] styleable RoundedImageView { 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable RoundedImageView_bottomLeftRadius 2
+int styleable RoundedImageView_bottomRightRadius 3
+int styleable RoundedImageView_topLeftRadius 0
+int styleable RoundedImageView_topRightRadius 1
